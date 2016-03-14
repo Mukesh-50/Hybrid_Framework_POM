@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="AppiumDemo.AppiumBrowserDemo">
+      <class name="TestCases.End_to_End_testcase">
         <methods>
-          <include name="testAPK"/>
+          <include name="search_Login"/>
         </methods>
-      </class> <!-- AppiumDemo.AppiumBrowserDemo -->
+      </class> <!-- TestCases.End_to_End_testcase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

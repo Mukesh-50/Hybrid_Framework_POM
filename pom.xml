@@ -6,11 +6,11 @@
   
   <dependencies>
   
-  <dependency>
+<dependency>
         <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-java</artifactId>
-        <version>2.47.1</version>
-</dependency> 
+        <version>2.48.2</version>
+    </dependency>
 
 <dependency>
 	<groupId>org.testng</groupId>
@@ -34,7 +34,7 @@
 <dependency>
     <groupId>com.relevantcodes</groupId>
     <artifactId>extentreports</artifactId>
-    <version>2.05</version>
+    <version>2.40.2</version>
 </dependency>
 
 </dependencies>
